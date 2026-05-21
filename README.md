@@ -1,5 +1,6 @@
 
-#Overview:-
+# Overview:-
+
 ## This project presents a relationship-oriented chat application powered by Large Language Models (LLMs) and the LangChain framework. The system is designed to offer users intelligent suggestions to improve their sentences and responses based on both current input and historical conversation context.
 
 📌 Key Features Personalized Sentence Suggestions: The system suggests alternative, emotionally intelligent responses to improve sentence clarity, tone, and engagement.
