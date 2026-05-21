@@ -23,6 +23,9 @@ Sentence Transformers: Used to generate sentence embeddings for semantic similar
 
 TextBlob: A library for sentiment analysis used to analyze the emotional tone of user inputs.
 
+## Flow:-
+
+<img width="476" height="709" alt="image" src="https://github.com/user-attachments/assets/55fd0509-22b5-4b31-8f69-e7a3979b593c" />
 
 ## **Detailed Workflow Flowchart**
 
