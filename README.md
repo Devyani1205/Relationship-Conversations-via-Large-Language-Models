@@ -40,6 +40,7 @@ twitter_content_app.py
 ```
 
 ---
+<img width="494" height="705" alt="image" src="https://github.com/user-attachments/assets/8f0f66b9-8436-46d1-a53b-81cdc94dff02" />
 
 ### 2. Frontend Interface (HTML/JavaScript)
 
